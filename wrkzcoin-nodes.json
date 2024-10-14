@@ -27,6 +27,13 @@
       "port": 17856,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "WRKZ Cuvee.Cloud",
+      "url": "wrkzcoin.cuvee.cloud",
+      "port": 443,
+      "ssl": true,
+      "cache": false
     }
   ]
 }
